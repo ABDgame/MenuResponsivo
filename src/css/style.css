@@ -1,1 +1,41 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root { Do not use empty rulesets
+--white: hsl(0, 0%,100%);
+--overlay-bg: hsla(0, 3%, 13%, 0.5);
+
+/* Light theme */
+--light-background: hsl(0, 0%, 96%);
+--light-on-background: hsl(0, 3%, 13%);
+--light-on-background-variant: hsl(20, 3%, 19%);
+--light-primary: hsl(11, 87%, 59%);
+--light-primary-hover: hsl(11, 60%, 50%);
+--light-primary-container: hsl(14, 57%, 95%);
+--light-error: hsl(1, 73%, 42%);
+--light-active-indicator: hsl(12, 58%, 88%);
+--light-image-background: hsl(0, 0%, 70%);
+--light-badge-btn: hsl(30, 58%,88%);
+--light-on-badge-btn: hsl(24, 7%, 14%);
+--light-outline: hsl(10, 19%, 88%);
+--light-input-outline: hsl(7, 7%, 73%);
+--light-input-outline-hover: hsl(9, 3%, 52%);
+--light-alpha-10: hsla(0, 0%, 0%, 0.1);
+--light-alpha-20: hsla(0, 0%, 0%, 0.2);
+
+
+
+}
