@@ -71,5 +71,34 @@
 --fs-headline-small: 2.4rem;
 --fs-title-medium: 1.6rem;
 --fs-title-small: 1.4rem;
+--fs-body-large: 1.6rem;
+--fs-body-medium: 1.4rem;
+--fs-label-large: 1.4rem;
+--fs-label-medium: 1.2rem;
+--fs-label-small: 1.1rem;
 
+/* font weight */
+--weight-regular: 400;
+--weight-medium: 500;
+
+/**
+* BORDER RADIUS
+*/
+--radius-4: 4px;
+--radius-8: 8px;
+--radius-circle: 50%;
+--radius-pill: 500px;
+
+/**
+*BOX SHADOW
+*/
+--shadow-1: 0 -1px 8px hsla(0,0%,0%, 0.2);
+--shadow-2: 0 2px 4px 1px hsla(0,0%,0%,0.3);
+
+/**
+* OTHERS
+*/
+--header-height:64px;
+--mobile-nav-height:80px;
+--section-gap:32px;
 }
