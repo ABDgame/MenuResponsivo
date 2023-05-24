@@ -14,7 +14,7 @@
 
 
 
-:root { Do not use empty rulesets
+:root 
 --white: hsl(0, 0%,100%);
 --overlay-bg: hsla(0, 3%, 13%, 0.5);
 
@@ -37,5 +37,39 @@
 --light-alpha-20: hsla(0, 0%, 0%, 0.2);
 
 
+/* Dark theme*/
+--dark-background: hsl(0, 0%, 10%);
+--dark-on-background: hsl(11, 3%, 87%);
+--dark-on-background-variant: hsl(11, 3%, 81%);
+--dark-primary: hsl(11, 87%, 64%);
+--dark-primary-hover: hsl(11, 51%, 51%);
+--dark-primary-container: hsl(15, 3%, 15%);
+--dark-error: hsl(1, 69%, 59%);
+--dark-active-indicator: hsl(15, 25%, 22%);
+--dark-image-background: hsl(0, 0%, 30%);
+--dark-badge-btn: hsl(30, 28%,13%);
+--dark-on-badge-btn: hsl(30, 8%, 86%);
+--dark-outline: hsl(11, 3%, 20%);
+--dark-input-outline: hsl(11, 3%, 29%);
+--dark-input-outline-hover: hsl(0, 4%, 58%);
+--dark-alpha-10: hsla(0, 0%, 100%, 0.1);
+--dark-alpha-20: hsla(0, 0%, 100%, 0.2);
+
+/**
+* TYPOGRAPHY
+*/
+
+/* font family */
+--font-primary: 'DM Serif Display', serif;
+--font-secondary: 'DM Sans', sans-serif;
+
+/* font size */
+--fs-base: 62.5%;
+--fs-display-large: 2.8rem;
+--fs-display-medium: 3.2rem;
+--fs-display-small: 2.6rem;
+--fs-headline-small: 2.4rem;
+--fs-title-medium: 1.6rem;
+--fs-title-small: 1.4rem;
 
 }
