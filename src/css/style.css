@@ -115,6 +115,23 @@
 }
 [data-theme="light"]{
   color-scheme: light;
+
+--background: var(--light-background);
+--on-background: var(--light-on-background);
+--on-background-variant: var(--light-on-background-variant);
+--primary: var(--light-primary);
+--primary-hover: var(--light-primary-hover);
+--primary-container: var(--light-primary-container);
+--error: var(--light-error);
+--active-indicator: var(--light-active-indicator);
+--image-background: var(--light-image-background);
+--badge-btn: var(--light-badge-btn);
+--on-badge-btn: var(--light-on-badge-btn);
+--outline: var(--light-outline);
+--input-outline: var(--light-input-outline);
+--input-outline-hover: var(--light-input-outline-hover);
+--alpha-10: var(--light-alpha-10);
+--alpha-20: var(--light-alpha-20);
 }
 /*______________
 #RESET
