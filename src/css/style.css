@@ -133,6 +133,28 @@
 --alpha-10: var(--light-alpha-10);
 --alpha-20: var(--light-alpha-20);
 }
+
+
+[data-theme="dark"]{
+  color-scheme: dark;
+
+--background: var(--dark-background);
+--on-background: var(--dark-on-background);
+--on-background-variant: var(--dark-on-background-variant);
+--primary: var(--dark-primary);
+--primary-hover: var(--dark-primary-hover);
+--primary-container: var(--dark-primary-container);
+--error: var(--dark-error);
+--active-indicator: var(--dark-active-indicator);
+--image-background: var(--dark-image-background);
+--badge-btn: var(--dark-badge-btn);
+--on-badge-btn: var(--dark-on-badge-btn);
+--outline: var(--dark-outline);
+--input-outline: var(--dark-input-outline);
+--input-outline-hover: var(--dark-input-outline-hover);
+--alpha-10: var(--dark-alpha-10);
+--alpha-20: var(--dark-alpha-20);
+}
 /*______________
 #RESET
 _________________*/
