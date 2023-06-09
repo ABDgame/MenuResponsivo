@@ -108,8 +108,13 @@
   /**
    * TRANSITION
    */
-   --transition-timing-function: cubic-bezier()
-  }
+   --transition-timing-function: cubic-bezier(0.2,0,0,1);
+   --transition-short: 200ms var(--transition-timing-function);
+   --transition-medium: 500ms var(--transition-timing-function);
+ }
+}
+[data-theme="light"]{
+  color-scheme: light;
 }
 /*______________
 #RESET
