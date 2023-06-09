@@ -101,4 +101,21 @@
 --header-height:64px;
 --mobile-nav-height:80px;
 --section-gap:32px;
+
 }
+@media(prefers-reduced-motion: no-preference){
+ :root{
+  /**
+   * TRANSITION
+   */
+   --transition-timing-function: cubic-bezier()
+  }
+}
+/*______________
+#RESET
+_________________*/
+
+
+/*______________
+#TYPOGRAPHY
+_________________*/
