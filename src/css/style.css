@@ -242,10 +242,34 @@ body{
 main {flex-grow: 1;}
 
 :focus-visible{outline-color: var(--primary);}
+
+
+
+
+
 /*______________
 #TYPOGRAPHY
 _________________*/
 
+.display-large{
+  font-family: var(--font-primary);
+}
+
+
+
+
 /*______________
 #REUSED STYLE
 _________________*/
+
+
+
+
+
+/*______________
+#COMPONENTS
+_________________*/
+
+/**
+* Mobile nav
+*/
