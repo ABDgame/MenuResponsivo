@@ -265,10 +265,28 @@ _________________*/
 }
 
 .display-small{
-   font-family: var(--font-);
-   font-size: var
- }
+   font-family: var(--font-primary);
+   font-size: var(--fs-display-small);
+   font-weight:var(--weight-regular);
+   line-height: 32px;
+}
 
+.headline-small{
+  font-size: var(--fs-headline-small);
+  font-weight: var(--weight-regular);
+  line-height: 32px;
+}
+
+.title-medium{
+  font-size: var(--fs-title-medium);
+  font-weight:var(--weight-medium);
+  line-height:24px;
+  letter-spacing: 0.15px;
+}
+
+.title-small{
+  font-size: var(--fs-title-small);
+}
 
 /*______________
 #REUSED STYLE
