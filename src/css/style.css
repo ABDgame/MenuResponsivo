@@ -253,9 +253,21 @@ _________________*/
 
 .display-large{
   font-family: var(--font-primary);
+  font-size: var(--fs-display-large);
+  font-weight: var(--weight-regular);
+  line-height: 32px;
+  letter-spacing: -0.25px;
 }
 
+.display-medium{
+  font-size: var(--fs-display-medium);
+  line-height: 36px;
+}
 
+.display-small{
+   font-family: var(--font-);
+   font-size: var
+ }
 
 
 /*______________
