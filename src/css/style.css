@@ -286,8 +286,43 @@ _________________*/
 
 .title-small{
   font-size: var(--fs-title-small);
+  font-weight:var(--weight-medium);
+  line-height: 20px;
+  letter-spacing:0.1px;
 }
 
+.body-large{
+  font-size:var(--fs-body-large);
+  line-height: 24px;
+  letter-spacing:0.5px;
+}
+
+.body-medium{
+  font-size: var(--fs-body-medium);
+  line-height:20px;
+  letter-spacing:0.25px;
+ }
+
+.label-large{
+  font-size: var(--fs-label-large);
+  font-weight:var(--weight-medium);
+  line-height: 20px;
+  letter-spacing: 0.1px;
+}
+
+.label-medium{
+  font-size: var(--fs-label-medium);
+  font-weight: var(--weight-medium);
+  line-height:16px;
+  letter-spacing:0.5px;
+}
+
+.label-small{
+  font-size:var(--fs-label-small);
+  font-weight:var(--weight-medium);
+  line-height:16px;
+  letter-spacing:0.5px;
+}
 /*______________
 #REUSED STYLE
 _________________*/
