@@ -56,6 +56,11 @@ html{
 section{
   padding:5rem 1rem;
 }
+
+.link-btn{
+  margin-top: 1rem;
+}
+
 .header{
   z-index: 1000;
   padding:4rem 0;
