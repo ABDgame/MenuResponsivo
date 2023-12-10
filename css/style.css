@@ -52,5 +52,12 @@ html{
     background: $main-color;
   }
 }
+.header{
+  z-index: 1000;
+  padding:4rem 0;
 
+  .logo{
+    
+  }
+}
 
