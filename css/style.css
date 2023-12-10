@@ -92,7 +92,7 @@ section{
 }
 
 .home{
-  background:url(../imagens/bg.jpg) no repeat;
+  background:url("imagens/bg.jpg") no repeat;
   background-size: cover;
   background-position: center;
 }
