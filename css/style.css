@@ -59,6 +59,17 @@ section{
 
 .link-btn{
   margin-top: 1rem;
+  padding: 1rem 3rem;
+  display: inline-block;
+  border:$border;
+  color:$main-color;
+  background: none;
+  cursor: pointer;
+
+  &:hover{
+    background: $main-color;
+    color:$
+  }
 }
 
 .header{
