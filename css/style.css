@@ -15,7 +15,19 @@ $black: #222;
 $white: #fff;
 $light-color: #666;
 $light-bg: #eee;
-$border: .1rem solid $main-color
+$border: .1rem solid $main-color;
 $box-shadow: 0.5rem 1rem rgba(0,0,0,.1);
+
+@mixin grid($val){
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax($val, 1fr));
+  gap: 2rem;
+}
+
+@mixin title-text($titleSize){
+  font-size: $titleSize;
+  text-transform: capitalize;
+  color:$black;
+}
 
 
