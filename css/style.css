@@ -18,9 +18,10 @@ $light-bg: #eee;
 $border: .1rem solid $main-color;
 $box-shadow: 0.5rem 1rem rgba(0,0,0,.1);
 
-@mixin grid($val){
+body {
+@mixin graph-text($val){
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax($val, 1fr));
+  line-height: 2;
   gap: 2rem;
 }
 
