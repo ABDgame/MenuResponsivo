@@ -57,21 +57,6 @@ section{
   padding:5rem 1rem;
 }
 
-.link-btn{
-  margin-top: 1rem;
-  padding: 1rem 3rem;
-  display: inline-block;
-  border:$border;
-  color:$main-color;
-  background: none;
-  cursor: pointer;
-
-  &:hover{
-    background: $main-color;
-    color:$
-  }
-}
-
 .header{
   z-index: 1000;
   padding:4rem 0;
