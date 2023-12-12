@@ -25,8 +25,9 @@
  - https://www.resizepixel.com/pt/edit
 
 # Editor de Códigos:
- - https://github.com
  - Sublime Text
+ - https://github.com/MQJogos
+ 
 
 # Imagens:
 - https://www.freepik.com/
