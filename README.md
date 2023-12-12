@@ -1,47 +1,50 @@
 <div align="center">
   
  
-
-  <h2 align="center">Foodie - Fast food website</h2>
-
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+  <h2 align="center"> Exemplo de Menu </h2>
+  Menu Responsivo Fixo com HTML, CSS, JavaScript e uma pitadinha de SCSS!  
 
 </div>
 
-<br />
 
-### Demo Screeshots
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+# CÓDIGO FONTE:
+ - https://youtu.be/Ed0uh9Mbe8M?si=1E_S5oXFNIZ7xAFy
+#
+ - https://youtu.be/Uxm17PTHAZw?si=mYzmq6Ja2BPNlGib
+#
+ - https://www.youtube.com/watch?v=wkDAd26xf5w
+#
+ - https://www.youtube.com/watch?v=xSC1dfyBLFU
 
-Before you begin, ensure you have met the following requirements:
+# Color Palette:
+ - https://mycolor.space
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+# Editor de Imagens Online:
+ - https://www.resizepixel.com/pt/edit
 
-### Run Locally
+# Editor de Códigos:
+ - https://github.com
+ - Sublime Text
 
-To run **Foodie** locally, run this command on your git bash:
+# Imagens:
+- https://www.freepik.com/
+- https://www.storyset.com/
+- https://www.undraw.com/
+- https://www.pixabay.com/
+- https://www.unsplash.com/
+- https://www.pixabay.com/
+- https://www.flaticon.com/
+- https://www.pngegg.com/
 
-Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/foodie.git
-```
 
-Windows:
 
-```bash
-git clone https://github.com/codewithsadee/foodie.git
-```
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-### License
 
-This project is **free to use** and does not contains any license.
+
+
+
