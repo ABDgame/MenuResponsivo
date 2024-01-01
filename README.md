@@ -1,14 +1,3 @@
-<div align="center">
-  
- 
-  <h2 align="center"> Exemplo de Menu </h2>
-  Menu Responsivo Fixo com HTML, CSS, JavaScript e uma pitadinha de SCSS!  
-
-</div>
-
-
-
-
 # CÓDIGO FONTE:
  - https://youtu.be/Ed0uh9Mbe8M?si=1E_S5oXFNIZ7xAFy
 #
@@ -38,6 +27,9 @@
 - https://www.pixabay.com/
 - https://www.flaticon.com/
 - https://www.pngegg.com/
+
+  # Google Fontes:
+  - https://fonts.google.com/specimen/Dancing+Script?query=Dancing+Script
 
 
 
